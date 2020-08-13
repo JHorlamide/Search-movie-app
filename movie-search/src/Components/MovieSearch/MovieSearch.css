@@ -1,5 +1,6 @@
 form {
   display: grid;
+  padding: 10px;
 }
 
 .label {
@@ -39,7 +40,7 @@ form {
     align-items: center;
   }
 
-  .inout {
+  .input {
     margin-bottom: 0;
   }
 }
